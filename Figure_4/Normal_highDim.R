@@ -1,4 +1,4 @@
-source("Functions_highDim.R")
+source("https://raw.githubusercontent.com/gzanella/NonReversible_FiniteMixtures/refs/heads/main/Figure_4/Functions_highDim.R")
 library("vioplot")
 #Large simulation generating from the Bayesian model
 
