@@ -1,4 +1,4 @@
-source("Functions_poisson.R")
+source("https://raw.githubusercontent.com/gzanella/NonReversible_FiniteMixtures/refs/heads/main/Figure_7/Functions_poisson.R")
 library("vioplot")
 #Large simulation generating from the Bayesian model
 
