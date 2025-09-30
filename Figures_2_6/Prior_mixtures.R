@@ -1,4 +1,4 @@
-source("Functions_priori.R")
+source("https://raw.githubusercontent.com/gzanella/NonReversible_FiniteMixtures/refs/heads/main/Figures_2_6/Functions_priori.R")
 #Large simulation generating from the prior
 
 K <- 3
