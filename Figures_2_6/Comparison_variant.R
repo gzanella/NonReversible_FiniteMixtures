@@ -1,5 +1,5 @@
+source("https://raw.githubusercontent.com/gzanella/NonReversible_FiniteMixtures/refs/heads/main/Figures_2_6/Functions_priori.R")
 library("vioplot")
-source("Functions_priori.R")
 
 K <- 50
 alpha <- c(1,rep(1/(K-1), K-1))
