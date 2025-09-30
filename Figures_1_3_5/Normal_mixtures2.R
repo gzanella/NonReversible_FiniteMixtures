@@ -1,4 +1,4 @@
-source("Functions_normal.R")
+source("https://raw.githubusercontent.com/gzanella/NonReversible_FiniteMixtures/refs/heads/main/Figures_1_3_5/Functions_normal.R")
 library("vioplot")
 #Large simulation generating from the Bayesian model
 
